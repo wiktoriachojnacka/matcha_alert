@@ -3,7 +3,7 @@ Python web scraper that monitors online stores for ceremonial matcha availabilit
 
 in progress...
 
-#sites to check
+# sites to check
 https://ouritsumatcha.pl/kategoria-produktu/herbaty/matcha/
 https://lunetea.pl/collections/matcha
 https://oromatcha.com/pl/menu/matcha-164.html
@@ -15,3 +15,4 @@ py -3 -m venv .venv
 pip install -r requirements.txt
 copy .env.example .env
 python scraper.py
+
