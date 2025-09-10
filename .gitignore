@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+state.json
+.env
+.DS_Store
+Thumbs.db
