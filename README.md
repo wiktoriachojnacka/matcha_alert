@@ -32,6 +32,6 @@ stock** to **in stock**. Stop with `Ctrl+C`.
 ## Notes
 
 - Filters products by the keywords `ceremonial` / `ceremony` in the name.
-- Don't lower the interval below a few minutes — these are small shops.
-- If a scraper starts returning nothing, the store's HTML has changed —
+- Don't lower the interval below a few minutes - these are small shops.
+- If a scraper starts returning nothing, the store's HTML has changed,
   update the selectors in the relevant `scrape_*` function.
